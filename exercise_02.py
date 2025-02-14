@@ -17,4 +17,4 @@ def main():
     print(f"String: {user_text}")
 
 if __name__ == "__main__":
-main()
+    main()
